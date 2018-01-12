@@ -1,6 +1,4 @@
 # hello-world
 my first repository
 
-this change was made with the built in tool in github
-
-test 123 test 123 test 123
+wochenede, komm jetzt, noch 45 Minuten!
